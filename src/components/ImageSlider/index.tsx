@@ -10,7 +10,7 @@ interface Props {
   imagesUrl: string[];
 }
 
-export function ImageSlider() {
+export function ImageSlider({ imagesUrl }: Props) {
   return (
     <Container>
       <ImageIndexes>
