@@ -1,5 +1,6 @@
+import "react-native-gesture-handler";
 import React from "react";
-import { CarDetails } from "./src/screens/CarDetails";
+import { Routes } from "./src/Routes";
 import {
   useFonts,
   Inter_400Regular,
@@ -29,7 +30,7 @@ export default function App() {
   SplashScreen.hideAsync();
   return (
     <ThemeProvider theme={theme}>
-      <CarDetails />
+      <Routes />
     </ThemeProvider>
   );
 }
