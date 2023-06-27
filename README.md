@@ -27,4 +27,5 @@ https://github.com/Hugootz/Rentx/assets/88740327/55acf38e-99a7-410b-a8d9-8284ee7
 + Expo
  ### Run the app:
  + Expo start
-   
+
+### Made by [Hugo de Oliveira](https://github.com/Hugootz)🤙 
